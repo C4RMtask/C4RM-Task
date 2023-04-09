@@ -1,4 +1,3 @@
-v = ['buzz', 41, 'fizz', 43, 44, 'fizzbuzz']
 # FizzBuzz function
 def FizzBuzz(start, finish):
     """
